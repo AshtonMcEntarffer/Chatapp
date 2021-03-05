@@ -1,1 +1,1 @@
-from chat.wsgi.application import main as app
+from wsgi.py import main as app
